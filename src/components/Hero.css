@@ -1,0 +1,52 @@
+.hero{
+text-align:center;
+margin-top:90px;
+direction:rtl;
+
+}
+
+.hero h1{
+font-size:50px;
+margin-bottom:20px;
+}
+
+.hero p{
+color:#777;
+margin-bottom:30px;
+font-size:25px ;
+}
+
+.hero-buttons{
+display:flex;
+justify-content:center;
+gap:20px;
+padding:20px 40px ;
+}
+
+
+.courses{
+background:#061c3a;
+color:white;
+border:none;
+padding:17px 40px ;
+border-radius:30px;
+cursor:pointer;
+font-size:20px ;
+}
+.courses:hover{
+    background: #0b2e60;
+    transition:1s ;
+}
+.subscribe{
+background:#20b486;
+color:white;
+border:none;
+padding:17px 30px ;
+border-radius:30px;
+cursor:pointer;
+font-size:20px ;
+}
+.subscribe:hover{
+    background: #7cdabb;
+    transition:1s ;
+}
